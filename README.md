@@ -1,4 +1,8 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+##Name: Hycinth D
+##Reg No:212223240055
+##Dept: AI&ML
+## date of Expirement: 18.03.2024
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -44,20 +48,19 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
 12. connect the  ARM board to power supply and usb 
-
-
 13. check for execution of the output using run option 
-
-
 
 ## STM 32 CUBE PROGRAM :
 
+![WhatsApp Image 2024-03-21 at 13 55 14_8376da3d](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870810/7885d830-01a0-468b-91af-c0173c135a9d)
 
 
 ## Output  :
  
- 
- 
+ ![WhatsApp Image 2024-03-21 at 13 55 33_a6450e54](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870810/5c1ec124-fc4a-44f1-af09-9474eec2da91)
+
+ ![WhatsApp Image 2024-03-21 at 13 55 37_95e39a99](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870810/60b35921-c592-4714-aed9-912331603389)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
